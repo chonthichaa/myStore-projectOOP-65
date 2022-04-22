@@ -1,0 +1,11 @@
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\bin\Debug\My Store_project.exe.config
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\bin\Debug\My Store_project.exe
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\bin\Debug\My Store_project.pdb
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My_Store_project.Form1.resources
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My_Store_project.Properties.Resources.resources
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.exe
+C:\Users\NITRO\source\repos\My Store_project\My Store_project\obj\Debug\My Store_project.pdb
